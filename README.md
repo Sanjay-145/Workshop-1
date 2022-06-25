@@ -1,15 +1,4 @@
 # Workshop-1
-To Create a simple menu option in android refer sample output and design same design.
-Procedure:
-
-Step-1: Create an android application using MainActivity.java using package from com.example.w2 with an empty activity.
-
-Step-2: Modify MainActivity.java to display the contents of an application. 
-
-Step-3: Modify activity_main.xml to create a layout for the application.
-
-Step-4: Launch an emulator and run the code.
-
 ## Program:
 ## Activity_Main.xml
 ```
